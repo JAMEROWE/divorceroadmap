@@ -1,0 +1,37 @@
+baseURL: "https://REPLACE-LATER.pages.dev/"
+languageCode: "en-us"
+title: "Divorce Roadmap"
+theme: PaperMod
+
+params:
+  author: "M. Carter"
+  description: "Plain-English divorce guides — costs, steps, and what nobody tells you."
+  ShowReadingTime: true
+  ShowToc: true
+  TocOpen: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 1
+    - identifier: resources
+      name: Free Resources
+      url: /free-resources/
+      weight: 2
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 3
