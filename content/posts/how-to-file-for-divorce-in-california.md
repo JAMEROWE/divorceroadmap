@@ -97,6 +97,6 @@ legal advice pays for itself.
 
 *Sources: [California Courts Self-Help Center](https://selfhelp.courts.ca.gov/),
 California Courts fee schedules, and Cal. Fam. Code §§ 2310, 2320,
-2339(a). Facts verified on January 2026. Last updated: 01 January 2026. Laws
+2339(a). Facts verified on January 1, 2026. Last updated: January 2026. Laws
 change — always confirm with the official sources or your county
 court before acting.*
