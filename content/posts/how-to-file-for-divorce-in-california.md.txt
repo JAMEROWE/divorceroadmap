@@ -46,8 +46,7 @@ File your forms with the clerk of the superior court in your county.
 The **first-paper filing fee was $435 at our last check** — but
 California adjusts court fees periodically, and some counties add
 small surcharges. Always confirm the current amount on your county
-court's fee schedule or the [statewide fee schedule]
-(https://www.courts.ca.gov/1038.htm) before filing.
+court's fee schedule or the [statewide fee schedule](https://www.courts.ca.gov/1038.htm) before filing.
 
 **Can't afford it?** File [**Form FW-001** (Request to Waive Court
 Fees)](https://www.courts.ca.gov/forms/fillable/fw001.pdf) — if you
@@ -97,6 +96,6 @@ legal advice pays for itself.
 
 *Sources: [California Courts Self-Help Center](https://selfhelp.courts.ca.gov/),
 California Courts fee schedules, and Cal. Fam. Code §§ 2310, 2320,
-2339(a). Facts verified on [DATE]. Last updated: [MONTH YEAR]. Laws
+2339(a). Facts verified on January 2026. Last updated: January 1, 2026. Laws
 change — always confirm with the official sources or your county
 court before acting.*
