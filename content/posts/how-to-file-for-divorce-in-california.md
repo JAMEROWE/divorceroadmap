@@ -49,9 +49,8 @@ small surcharges. Always confirm the current amount on your county
 court's fee schedule or the [statewide fee schedule]
 (https://www.courts.ca.gov/1038.htm) before filing.
 
-**Can't afford it?** File [**Form FW-001** (Request to Waive Court
-Fees)](https://www.courts.ca.gov/forms/fillable/fw001.pdf) — if you
-qualify, the state covers your costs.
+**Can't afford it? See our full guide: [How to Get a Divorce Fee Waiver in California (Form FW-001)](/posts/california-divorce-fee-waiver-fw-001/) — if you qualify, the state covers your costs.
+
 
 ## Step 5: Serve your spouse
 
