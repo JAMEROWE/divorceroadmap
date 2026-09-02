@@ -1,77 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Divorce Roadmap</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Divorce Roadmap</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Jamie Rowe — a researcher, not a lawyer.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Divorce Roadmap</title><link>https://divorceroadmap.jamie-rowe-writes.workers.dev/</link><description>Recent content on Divorce Roadmap</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://divorceroadmap.jamie-rowe-writes.workers.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://divorceroadmap.jamie-rowe-writes.workers.dev/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://divorceroadmap.jamie-rowe-writes.workers.dev/about/</guid><description>&lt;p&gt;Hi, I&amp;rsquo;m Jamie Rowe — a researcher, not a lawyer.&lt;/p&gt;
 &lt;p&gt;This site exists because divorce information online is either written by
 lawyers for lawyers, or buried in intimidating government pages. Every guide
 here is built by reading official state court sources — statutes, court
 websites, published fee schedules — and translating them into plain English,
 with the verification date noted so you know how current the information is.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What this site is:&lt;/strong&gt; a map — costs, steps, timelines, and the questions
-you&amp;rsquo;ll want to ask a licensed attorney in your state.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;Have a question, spotted an error, or want a topic covered?&lt;/p&gt;
-&lt;p&gt;Email me directly: &lt;strong&gt;&lt;a href=&#34;mailto:Jamie.Rowe.writes@proton.me&#34;&gt;Jamie.Rowe.writes@proton.me&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+you&amp;rsquo;ll want to ask a licensed attorney in your state.&lt;/p&gt;</description></item><item><title>Contact</title><link>https://divorceroadmap.jamie-rowe-writes.workers.dev/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://divorceroadmap.jamie-rowe-writes.workers.dev/contact/</guid><description>&lt;p&gt;Have a question, spotted an error, or want a topic covered?&lt;/p&gt;
+&lt;p&gt;Email me directly: &lt;strong&gt;&lt;a href="mailto:Jamie.Rowe.writes@proton.me"&gt;Jamie.Rowe.writes@proton.me&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Corrections are genuinely welcome — accuracy matters more than pride on
-this site, and updates are made with the date noted.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Disclaimer</title>
-      <link>http://localhost:1313/disclaimer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/disclaimer/</guid>
-      <description>&lt;p&gt;The information on this website is for general informational purposes only.
+this site, and updates are made with the date noted.&lt;/p&gt;</description></item><item><title>Disclaimer</title><link>https://divorceroadmap.jamie-rowe-writes.workers.dev/disclaimer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://divorceroadmap.jamie-rowe-writes.workers.dev/disclaimer/</guid><description>&lt;p&gt;The information on this website is for general informational purposes only.
 It is not legal advice, and reading it does not create any attorney-client
 relationship. I am not a lawyer.&lt;/p&gt;
 &lt;p&gt;Divorce laws, fees, and procedures vary by state and county and change over
 time. While every article is checked against official sources (state court
 websites and statutes) on the date noted, you must verify current details
-with your local court or a licensed attorney before acting.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Free Resources</title>
-      <link>http://localhost:1313/free-resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/free-resources/</guid>
-      <description>&lt;p&gt;Free checklists and printable guides are being prepared and will appear here.&lt;/p&gt;
+with your local court or a licensed attorney before acting.&lt;/p&gt;</description></item><item><title>Free Resources</title><link>https://divorceroadmap.jamie-rowe-writes.workers.dev/free-resources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://divorceroadmap.jamie-rowe-writes.workers.dev/free-resources/</guid><description>&lt;p&gt;Free checklists and printable guides are being prepared and will appear here.&lt;/p&gt;
 &lt;p&gt;They will follow the same standard as everything on this site: plain English,
-verified against official sources, with the verification date shown.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privacy-policy/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Last updated: [01/09/2026]&lt;/strong&gt;&lt;/p&gt;
+verified against official sources, with the verification date shown.&lt;/p&gt;</description></item><item><title>Privacy Policy</title><link>https://divorceroadmap.jamie-rowe-writes.workers.dev/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://divorceroadmap.jamie-rowe-writes.workers.dev/privacy-policy/</guid><description>&lt;p&gt;&lt;strong&gt;Last updated: [01/09/2026]&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This Privacy Policy describes how Divorce Roadmap (&amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, or &amp;ldquo;this
 website&amp;rdquo;) collects, uses, and protects information when you visit this
 website. By using the site, you agree to the practices described here.&lt;/p&gt;
-&lt;h2 id=&#34;who-we-are&#34;&gt;Who we are&lt;/h2&gt;
+&lt;h2 id="who-we-are"&gt;Who we are&lt;/h2&gt;
 &lt;p&gt;Divorce Roadmap is an informational website providing plain-English guides
 about the divorce process. For any privacy questions or requests, contact:
 &lt;strong&gt;[Jamie.Rowe.writes@proton.me]&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;information-we-collect&#34;&gt;Information we collect&lt;/h2&gt;
+&lt;h2 id="information-we-collect"&gt;Information we collect&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Information you provide voluntarily:&lt;/strong&gt;
 When you contact us by email, we receive the information you choose to send,
 such as your name and email address. We use it only to respond to your
 message. We do not add you to mailing lists without your consent, and we
-never sell your contact information.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+never sell your contact information.&lt;/p&gt;</description></item></channel></rss>
