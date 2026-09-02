@@ -62,7 +62,8 @@ There is **no deadline** to serve in a California family law case,
 but don't sit on it — a stalled case can eventually be dismissed for
 lack of action, and nothing moves until your spouse is served.
 
-## Step 6: The 6-month waiting period
+## Step 6: The 6-month waiting period Wondering about the timing in detail? See our full guide: [How Long Does a Divorce Take in California?](/posts/how-long-does-divorce-take-california/)
+
 
 California has a mandatory **6-month waiting period** before a divorce
 can be finalized. The clock starts **on the date your spouse is
