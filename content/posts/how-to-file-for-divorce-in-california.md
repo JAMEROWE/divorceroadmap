@@ -1,4 +1,4 @@
----
+﻿---
 title: "How to File for Divorce in California (2026): A Step-by-Step Guide"
 description: "California divorce explained step by step: residency rules, forms, filing fees, serving your spouse, and the 6-month waiting period — with official sources. Updated for 2026."
 date: 2026-01-01
@@ -97,6 +97,6 @@ legal advice pays for itself.
 
 *Sources: [California Courts Self-Help Center](https://selfhelp.courts.ca.gov/),
 California Courts fee schedules, and Cal. Fam. Code §§ 2310, 2320,
-2339(a). Facts verified on [DATE]. Last updated: [MONTH YEAR]. Laws
+2339(a). Facts verified on January 2026. Last updated: 01 January 2026. Laws
 change — always confirm with the official sources or your county
 court before acting.*
