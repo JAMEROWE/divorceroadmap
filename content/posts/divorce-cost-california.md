@@ -59,31 +59,41 @@ See the full requirements under Family Code §2400 via the [California Courts Se
 
 The faster the process, the fewer billable hours — but even the smoothest California divorce has a **mandatory 6-month waiting period** before it can be finalized. We explain why in **[How Long Does a Divorce Take in California? (The 6-Month Rule Explained)](/posts/how-long-does-divorce-take-california/)**.
 
-## Frequently Asked Questions
 
-### How much is a divorce in California without a lawyer?
 
-With a fee waiver, close to nothing. Without one, a DIY ("pro per") divorce runs around **600–1,800 USD** total — the 435 USD filing fee, 50–125 USD to serve your spouse, plus small costs for copies and classes. Not hiring a lawyer is what keeps costs low.
+## Frequently asked questions
 
-### How much does a divorce cost with a lawyer?
+**How much is a divorce in California without a lawyer?**
 
-A contested divorce with attorneys on both sides runs **20,000–35,000 USD or more** per couple, billed at 350–600 USD per hour. Every disputed issue adds billable hours — which is why agreement is the biggest money-saver.
+With a fee waiver, close to nothing. Without one, a DIY ("pro per") divorce runs around 600–1,800 USD total — the 435 USD filing fee, 50–125 USD to serve your spouse, plus small costs for copies and classes. Not hiring a lawyer is what keeps costs low.
 
-### Can I get a divorce for free in California?
+**How much does a divorce cost with a lawyer?**
+
+A contested divorce with attorneys on both sides runs 20,000–35,000 USD or more per couple, billed at 350–600 USD per hour. Every disputed issue adds billable hours — which is why agreement is the biggest money-saver.
+
+**Can I get a divorce for free in California?**
 
 Yes. If paying court fees would cause financial hardship, file form FW-001 and the court can waive filing, service, and certified-copy fees. Details in our [fee waiver guide](/posts/california-divorce-fee-waiver-fw-001/).
 
-### Do you have to pay the filing fee to respond to a divorce?
+**Do you have to pay the filing fee to respond to a divorce?**
 
 Usually yes — the respondent pays the same first-appearance fee when filing a response, unless they qualify for a fee waiver or the case ends in a true default with no response required.
 
-### What's the cheapest way to get a divorce in California?
+**What's the cheapest way to get a divorce in California?**
 
 Summary dissolution, if you qualify (married under 5 years, no children, property under 45,000 USD excluding vehicles). Otherwise, an amicable DIY divorce using a joint petition is the cheapest route.
 
-### How much does it cost to serve divorce papers in California?
+**How much does it cost to serve divorce papers in California?**
 
-A professional process server charges around **50–125 USD**. You can cut this: some sheriff's offices serve for a reduced fee (often waived with a fee waiver), and having any adult over 18 mail the documents costs nothing but postage.
+A professional process server charges around 50–125 USD. You can cut this: some sheriff's offices serve for a reduced fee (often waived with a fee waiver), and having any adult over 18 mail the documents costs nothing but postage.
+
+
+## Sources
+
+- [California Courts Self-Help Center — Divorce or Separation](https://selfhelp.courts.ca.gov/divorce-or-separation)
+- [California Courts Self-Help Center — Summary Dissolution](https://selfhelp.courts.ca.gov/summary-dissolution)
+- [California Courts — Fee Waiver (Form FW-001)](https://selfhelp.courts.ca.gov/fee-waiver)
+- Your county superior court's current fee schedule (fees can vary slightly by county)
 
 ---
 
