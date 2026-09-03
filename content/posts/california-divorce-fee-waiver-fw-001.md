@@ -1,7 +1,7 @@
 ---
 title: "How to Get a Divorce Fee Waiver in California (Form FW-001)"
 description: "Can't afford the California divorce filing fee? Learn how to qualify for a fee waiver with Form FW-001 — eligibility, step-by-step filing, and official sources."
-date: 2026-01-01
+date: 2026-09-02
 draft: false
 tags: ["California", "Filing for Divorce", "Fee Waivers"]
 ---

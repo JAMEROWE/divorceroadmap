@@ -1,7 +1,7 @@
 ﻿---
 title: "How to File for Divorce in California (2026): A Step-by-Step Guide"
 description: "California divorce explained step by step: residency rules, forms, filing fees, serving your spouse, and the 6-month waiting period — with official sources. Updated for 2026."
-date: 2026-01-01
+date: 2026-09-01
 draft: false
 tags: ["California", "Filing for Divorce"]
 ---

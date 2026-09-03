@@ -1,7 +1,7 @@
 ---
 title: "How Long Does a Divorce Take in California? (The 6-Month Rule Explained)"
 description: "California divorces take at least 6 months — but when does the clock actually start? The real timeline, what makes cases take longer, and why the 6-month rule can't be shortened."
-date: 2026-01-01
+date: 2026-09-02
 draft: false
 tags: ["California", "Filing for Divorce", "Divorce Timeline"]
 ---
