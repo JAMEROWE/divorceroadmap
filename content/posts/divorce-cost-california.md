@@ -61,6 +61,14 @@ See the full requirements under Family Code §2400 via the [California Courts Se
 The faster the process, the fewer billable hours — but even the smoothest California divorce has a **mandatory 6-month waiting period** before it can be finalized. We explain why in **[How Long Does a Divorce Take in California? (The 6-Month Rule Explained)](/posts/how-long-does-divorce-take-california/)**.
 
 
+## What This Means for You
+
+1. **Minimum realistic cost:** 0 USD (fee waiver) to ~650 USD DIY
+2. **Typical amicable DIY divorce:** 600–1,800 USD
+3. **Avoid:** anything that bills hourly for disagreement
+
+**Next step:** Learn exactly how to file from scratch in **[How to File for Divorce in California (2026): A Step-by-Step Guide](/posts/how-to-file-for-divorce-in-california/)**.
+
 
 ## Frequently asked questions
 
@@ -91,8 +99,5 @@ A professional process server charges around 50–125 USD. You can cut this: som
 
 ---
 
-*Sources: [California Courts Self-Help Center — Fee Waivers](https://selfhelp.courts.ca.gov/fee-waiver), [Divorce or Separation overview](https://selfhelp.courts.ca.gov/divorce-or-separation), and [Summary Dissolution requirements](https://selfhelp.courts.ca.gov/summary-dissolution). Facts verified on Jan 28, 2026. Last updated: January 2026. Filing fees and eligibility amounts change — always confirm with the current form and your county court before filing. This article is for informational purposes only and is not legal advice.*
+*Sources: [California Courts Self-Help Center — Fee Waivers](https://selfhelp.courts.ca.gov/fee-waiver), [Divorce or Separation overview](https://selfhelp.courts.ca.gov/divorce-or-separation), and [Summary Dissolution requirements](https://selfhelp.courts.ca.gov/summary-dissolution). Facts verified on September 03, 2026. Last updated: September 2026. Filing fees and eligibility amounts change — always confirm with the current form and your county court before filing. This article is for informational purposes only and is not legal advice.*
 
----
-
-*Disclaimer: This article is for informational purposes only and is not legal advice. Divorce Roadmap is not a law firm. Verify all fees with your county superior court before filing.*
