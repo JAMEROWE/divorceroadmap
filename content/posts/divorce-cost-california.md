@@ -2,6 +2,7 @@
 title: "How Much Does Divorce Cost in California? 2026 Fees Explained"
 date: 2026-09-03
 description: "Real 2026 California divorce costs: filing fees, service of process, and lawyer prices — plus how to pay less or nothing at all with a fee waiver."
+tags: ["California", "Filing for Divorce", "Divorce Costs"]
 ---
 
 Divorce in California costs at least **435 USD** in court filing fees alone — and anywhere from free to **35,000 USD and up** overall, depending entirely on how you file.
@@ -88,12 +89,9 @@ Summary dissolution, if you qualify (married under 5 years, no children, propert
 A professional process server charges around 50–125 USD. You can cut this: some sheriff's offices serve for a reduced fee (often waived with a fee waiver), and having any adult over 18 mail the documents costs nothing but postage.
 
 
-## Sources
+---
 
-- [California Courts Self-Help Center — Divorce or Separation](https://selfhelp.courts.ca.gov/divorce-or-separation)
-- [California Courts Self-Help Center — Summary Dissolution](https://selfhelp.courts.ca.gov/summary-dissolution)
-- [California Courts — Fee Waiver (Form FW-001)](https://selfhelp.courts.ca.gov/fee-waiver)
-- Your county superior court's current fee schedule (fees can vary slightly by county)
+*Sources: [California Courts Self-Help Center — Fee Waivers](https://selfhelp.courts.ca.gov/fee-waiver), [Divorce or Separation overview](https://selfhelp.courts.ca.gov/divorce-or-separation), and [Summary Dissolution requirements](https://selfhelp.courts.ca.gov/summary-dissolution). Facts verified on Jan 28, 2026. Last updated: January 2026. Filing fees and eligibility amounts change — always confirm with the current form and your county court before filing. This article is for informational purposes only and is not legal advice.*
 
 ---
 
