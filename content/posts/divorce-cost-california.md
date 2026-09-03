@@ -63,15 +63,15 @@ The faster the process, the fewer billable hours — but even the smoothest Cali
 
 ### How much is a divorce in California without a lawyer?
 
-With a fee waiver, close to **0 USD**. Without one, a DIY ("pro per") divorce runs **600–1,800 USD total** — the 435 USD filing fee, 50–125 USD to serve your spouse, plus small costs for copies and classes. Not hiring a lawyer is what keeps costs low.
+With a fee waiver, close to nothing. Without one, a DIY ("pro per") divorce runs around **600–1,800 USD** total — the 435 USD filing fee, 50–125 USD to serve your spouse, plus small costs for copies and classes. Not hiring a lawyer is what keeps costs low.
 
 ### How much does a divorce cost with a lawyer?
 
-A contested divorce with attorneys on both sides runs **20,000–35,000+ USD per couple**, billed at 350–600 USD per hour. Every disputed issue adds billable hours — which is why agreement is the biggest money-saver.
+A contested divorce with attorneys on both sides runs **20,000–35,000 USD or more** per couple, billed at 350–600 USD per hour. Every disputed issue adds billable hours — which is why agreement is the biggest money-saver.
 
 ### Can I get a divorce for free in California?
 
-Yes — if paying court fees would cause financial hardship, file **FW-001** and the court can waive filing, service, and certified-copy fees. Details in our [fee waiver guide](/posts/california-divorce-fee-waiver-fw-001/).
+Yes. If paying court fees would cause financial hardship, file form FW-001 and the court can waive filing, service, and certified-copy fees. Details in our [fee waiver guide](/posts/california-divorce-fee-waiver-fw-001/).
 
 ### Do you have to pay the filing fee to respond to a divorce?
 
@@ -79,19 +79,11 @@ Usually yes — the respondent pays the same first-appearance fee when filing a 
 
 ### What's the cheapest way to get a divorce in California?
 
-**Summary dissolution** if you qualify (married under 5 years, no children, property under 45,000 USD excluding vehicles) — otherwise an amicable DIY divorce using a joint petition.
+Summary dissolution, if you qualify (married under 5 years, no children, property under 45,000 USD excluding vehicles). Otherwise, an amicable DIY divorce using a joint petition is the cheapest route.
 
 ### How much does it cost to serve divorce papers in California?
 
-A professional process server charges **50–125 USD**. You can cut this: some sheriff's offices serve for a reduced fee (often waived with a fee waiver), and having any adult over 18 mail the documents costs nothing but postage.
-
-## What This Means for You
-
-1. **Minimum realistic cost:** 0 USD (fee waiver) to ~650 USD DIY
-2. **Typical amicable DIY divorce:** 600–1,800 USD
-3. **Avoid:** anything that bills hourly for disagreement
-
-**Next step:** Learn exactly how to file from scratch in **[How to File for Divorce in California (2026): A Step-by-Step Guide](/posts/how-to-file-for-divorce-in-california/)**.
+A professional process server charges around **50–125 USD**. You can cut this: some sheriff's offices serve for a reduced fee (often waived with a fee waiver), and having any adult over 18 mail the documents costs nothing but postage.
 
 ---
 
