@@ -1,6 +1,6 @@
 ﻿---
 title: "How to Serve Divorce Papers in California: Rules, Methods, and Deadlines"
-date: 2026-02-03
+date: 2026-09-04
 description: "How to serve divorce papers in California the right way: who can serve, the 4 legal methods, deadlines, form FL-115, and what to do if your spouse won't cooperate."
 tags: ["California", "Filing for Divorce", "Service of Process"]
 ---
@@ -134,4 +134,5 @@ No fixed deadline exists for serving, but your spouse's 30-day response window s
 
 ---
 
-*Sources: [California Courts Self-Help Center — Service of Process](https://selfhelp.courts.ca.gov/service-process), [Divorce or Separation overview](https://selfhelp.courts.ca.gov/divorce-or-separation), and [form FL-115 instructions](https://www.courts.ca.gov/forms.htm). Facts verified on Jan 28, 2026. Last updated: January 2026. Service rules and fees change — always confirm current requirements with the California Courts Self-Help Center or your county superior court before serving papers. This article is for informational purposes only and is not legal advice.*
+*Sources: [California Courts Self-Help Center — Service of Process](https://selfhelp.courts.ca.gov/service-process), [Divorce or Separation overview](https://selfhelp.courts.ca.gov/divorce-or-separation), and [form FL-115 instructions](https://www.courts.ca.gov/forms.htm). 
+Facts verified on Sept 28, 2026. Last updated: September 2026. Service rules and fees change — always confirm current requirements with the California Courts Self-Help Center or your county superior court before serving papers. This article is for informational purposes only and is not legal advice.*
