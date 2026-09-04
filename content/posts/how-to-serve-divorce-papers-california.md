@@ -135,4 +135,4 @@ No fixed deadline exists for serving, but your spouse's 30-day response window s
 ---
 
 *Sources: [California Courts Self-Help Center — Service of Process](https://selfhelp.courts.ca.gov/service-process), [Divorce or Separation overview](https://selfhelp.courts.ca.gov/divorce-or-separation), and [form FL-115 instructions](https://www.courts.ca.gov/forms.htm). 
-Facts verified on Sept 28, 2026. Last updated: September 2026. Service rules and fees change — always confirm current requirements with the California Courts Self-Help Center or your county superior court before serving papers. This article is for informational purposes only and is not legal advice.*
+Facts verified on Sept 04, 2026. Last updated: September 2026. Service rules and fees change — always confirm current requirements with the California Courts Self-Help Center or your county superior court before serving papers. This article is for informational purposes only and is not legal advice.*
