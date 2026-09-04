@@ -1,6 +1,6 @@
 ﻿---
 title: "What Forms Do You Need to Get a Divorce in California? Complete 2026 List"
-date: 2026-01-29
+date: 2026-09-04
 description: "The complete list of California divorce forms for 2026: FL-100, FL-110, FL-120, FL-115 and more — which ones you need, what each one does, and where to get them free."
 tags: ["California", "Filing for Divorce", "Divorce Forms"]
 ---
@@ -113,4 +113,4 @@ No. One spouse files FL-100 to start. The other files FL-120 (Response) within 3
 
 ---
 
-*Sources: [California Courts Self-Help Center — Divorce Forms](https://selfhelp.courts.ca.gov/divorce-forms), [Filing for Divorce or Separation](https://selfhelp.courts.ca.gov/divorce-or-separation), and [Fee Waiver information](https://selfhelp.courts.ca.gov/fee-waiver). Facts verified on Jan 28, 2026. Last updated: January 2026. Form numbers and requirements change — always download the current version from the California Courts website and check your county's local rules before filing. This article is for informational purposes only and is not legal advice.*
+*Sources: [California Courts Self-Help Center — Divorce Forms](https://selfhelp.courts.ca.gov/divorce-forms), [Filing for Divorce or Separation](https://selfhelp.courts.ca.gov/divorce-or-separation), and [Fee Waiver information](https://selfhelp.courts.ca.gov/fee-waiver). Facts verified on September 28, 2026. Last updated: September 2026. Form numbers and requirements change — always download the current version from the California Courts website and check your county's local rules before filing. This article is for informational purposes only and is not legal advice.*
