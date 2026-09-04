@@ -26,6 +26,9 @@ Remember three form numbers and the rest falls into place: **FL-100 to start, FL
 
 **FL-115 — Proof of Service of Summons.** A neutral adult over 18 who handed your spouse the papers completes this form, and it must be filed with the court. The court cannot advance the case without proof of service.
 
+For the full serving procedure, methods, and costs, see [How to Serve Divorce Papers in California](/posts/how-to-serve-divorce-papers-california/).
+
+
 > **Verified against official sources:** California Courts Self-Help Center (selfhelp.courts.ca.gov) and current Judicial Council forms. Verified for January 2026.
 
 ## Additional Forms (Situation-Dependent)

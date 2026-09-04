@@ -38,7 +38,8 @@ Before you can pay any fee, you'll need the right paperwork — see [the complet
 | Required parenting class (with kids) | Free–75 USD | Sometimes — county programs |
 | Document copies/certification | ~0.50 USD/page, 25 USD/certified | Minimal either way |
 
-Serving your spouse has its own rules, deadlines, and proof requirements — we'll walk through every method step by step in an upcoming guide.
+Serving your spouse has its own rules, deadlines, and proof requirements — see [How to Serve Divorce Papers in California](/posts/how-to-serve-divorce-papers-california/) for every method step by step.
+
 
 ## The Big Variable: Lawyers
 
