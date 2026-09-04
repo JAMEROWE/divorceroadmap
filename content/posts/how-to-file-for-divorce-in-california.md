@@ -87,6 +87,9 @@ The filing fee was $435 at our last check (plus county surcharges);
 an uncontested case without lawyers may cost only that. Contested
 cases with attorneys often run into the tens of thousands.
 
+If you and your spouse agree on all terms, see [Uncontested Divorce in California](/posts/uncontested-divorce-california/) for the fastest path.
+
+
 **How long does a divorce take in California?**
 Minimum 6 months from the date of service; contested cases commonly
 take a year or more.

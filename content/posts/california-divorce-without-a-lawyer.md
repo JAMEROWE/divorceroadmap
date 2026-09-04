@@ -33,6 +33,9 @@ Being honest about this is the most important part of this guide.
 
 This is the profile of what courts call an **uncontested divorce**, and it's genuinely achievable on your own.
 
+For the full requirements, forms, and timeline, see [Uncontested Divorce in California](/posts/uncontested-divorce-california/).
+
+
 ### You should strongly consider a lawyer when:
 
 - ❌ Your spouse disagrees on custody, support, or property division
