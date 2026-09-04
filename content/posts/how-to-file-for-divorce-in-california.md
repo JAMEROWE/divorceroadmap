@@ -96,6 +96,9 @@ No. California's self-help centers exist precisely for
 self-represented people. But for custody disputes or complex assets,
 legal advice pays for itself.
 
+Want to handle the entire case yourself? See [How to Get a Divorce in California Without a Lawyer](/posts/california-divorce-without-a-lawyer/) for the complete DIY path.
+
+
 ---
 
 *Sources: [California Courts Self-Help Center](https://selfhelp.courts.ca.gov/),

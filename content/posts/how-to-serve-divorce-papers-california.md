@@ -106,6 +106,8 @@ Silence is a losing strategy for the respondent: if your spouse is properly serv
 
 And remember — service costs nothing at all if you have an approved [fee waiver (FW-001)](/posts/california-divorce-fee-waiver-fw-001/), including the sheriff's service option.
 
+Handling the whole case on your own? [How to Get a Divorce in California Without a Lawyer](/posts/california-divorce-without-a-lawyer/) walks through the complete DIY process.
+
 ## Frequently asked questions
 
 **Can I serve my spouse with divorce papers myself in California?**

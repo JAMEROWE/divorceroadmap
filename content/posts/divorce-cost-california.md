@@ -95,6 +95,8 @@ Usually yes — the respondent pays the same first-appearance fee when filing a 
 
 Summary dissolution, if you qualify (married under 5 years, no children, property under 45,000 USD excluding vehicles). Otherwise, an amicable DIY divorce using a joint petition is the cheapest route.
 
+The cheapest path of all is handling the case yourself — see [How to Get a Divorce in California Without a Lawyer](/posts/california-divorce-without-a-lawyer/).
+
 **How much does it cost to serve divorce papers in California?**
 
 A professional process server charges around 50–125 USD. You can cut this: some sheriff's offices serve for a reduced fee (often waived with a fee waiver), and having any adult over 18 mail the documents costs nothing but postage.
