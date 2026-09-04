@@ -1,4 +1,4 @@
----
+﻿---
 title: "How to Get a Divorce Fee Waiver in California (Form FW-001)"
 description: "Can't afford the California divorce filing fee? Learn how to qualify for a fee waiver with Form FW-001 — eligibility, step-by-step filing, and official sources."
 date: 2026-09-02
@@ -66,9 +66,10 @@ main reason applications get denied.
 
 ### Step 2: File it with your divorce paperwork
 
-Turn in FW-001 at the same courthouse where you're filing (or filing
-the rest of) your case. There's no fee to apply for a waiver —
-obviously.
+Turn in FW-001 at the same courthouse where you're filing (or filing the rest of) your case. There's no fee to apply for a waiver.
+
+The fee waiver is submitted together with your divorce forms — see [which forms you need to start a divorce](/posts/california-divorce-forms-fl-100/).
+
 
 ### Step 3: The court decides
 

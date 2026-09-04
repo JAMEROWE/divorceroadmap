@@ -39,6 +39,8 @@ available free from the California Courts website. You'll also need
 a summons and, if you have children, additional forms. Your [county
 court's self-help center](https://selfhelp.courts.ca.gov/) can review
 your paperwork for free.
+Not sure which documents you need? See the complete list in [What Forms Do You Need to Get a Divorce in California?](/posts/california-divorce-forms-fl-100/).
+
 
 ## Step 4: File with the court and pay the fee
 

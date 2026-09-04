@@ -26,6 +26,8 @@ If paying would create financial hardship, ask the court to waive it with form *
 - Certified copy fees
 
 Thousands of Californians qualify every year. We cover exactly who qualifies and how to apply in **[How to Get a Divorce Fee Waiver in California (Form FW-001)](/posts/california-divorce-fee-waiver-fw-001/)**.
+Before you can pay any fee, you'll need the right paperwork — see [the complete list of California divorce forms](/posts/california-divorce-forms-fl-100/).
+
 
 ## The Other Costs Nobody Mentions
 
