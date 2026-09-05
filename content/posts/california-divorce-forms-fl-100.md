@@ -114,6 +114,14 @@ FL-180 (Judgment). Once signed by a judge — and after the 6-month waiting peri
 
 No. One spouse files FL-100 to start. The other files FL-120 (Response) within 30 days of service, or the case may proceed by default. Both spouses do complete financial disclosures (FL-142) in most cases.
 
+## Is this legal advice?
+
+No. This guide is general information about the California fee waiver
+process — it is not legal advice, and reading it doesn't create an
+attorney-client relationship. Your situation may have details this
+guide can't cover. For advice about your specific case, use your
+court's **free self-help center** or consult a family law lawyer.
+
 ---
 
-*Sources: [California Courts Self-Help Center — Divorce Forms](https://selfhelp.courts.ca.gov/divorce-forms), [Filing for Divorce or Separation](https://selfhelp.courts.ca.gov/divorce-or-separation), and [Fee Waiver information](https://selfhelp.courts.ca.gov/fee-waiver). Facts verified on September 28, 2026. Last updated: September 2026. Form numbers and requirements change — always download the current version from the California Courts website and check your county's local rules before filing. This article is for informational purposes only and is not legal advice.*
+*Sources: [California Courts Self-Help Center — Divorce Forms](https://selfhelp.courts.ca.gov/divorce-forms), [Filing for Divorce or Separation](https://selfhelp.courts.ca.gov/divorce-or-separation), and [Fee Waiver information](https://selfhelp.courts.ca.gov/fee-waiver). Facts verified on September 04, 2026. Last updated: September 2026. Form numbers and requirements change — always download the current version from the California Courts website and check your county's local rules before filing. This article is for informational purposes only and is not legal advice.*
