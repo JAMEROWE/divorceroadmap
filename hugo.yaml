@@ -35,8 +35,8 @@ menu:
       name: Contact
       url: /contact/
       weight: 3
-    - identifier: privacy policy
-      name = Privacy Policy
-      url = /privacy-policy/
-      weight = 4
+    - identifier: privacy-policy
+      name: Privacy Policy
+      url: /privacy-policy/
+      weight: 4
 
