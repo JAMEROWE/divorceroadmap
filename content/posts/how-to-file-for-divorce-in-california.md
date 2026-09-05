@@ -100,6 +100,13 @@ legal advice pays for itself.
 
 Want to handle the entire case yourself? See [How to Get a Divorce in California Without a Lawyer](/posts/california-divorce-without-a-lawyer/) for the complete DIY path.
 
+## Is this legal advice?
+
+No. This guide is general information about the California fee waiver
+process — it is not legal advice, and reading it doesn't create an
+attorney-client relationship. Your situation may have details this
+guide can't cover. For advice about your specific case, use your
+court's **free self-help center** or consult a family law lawyer.
 
 ---
 
