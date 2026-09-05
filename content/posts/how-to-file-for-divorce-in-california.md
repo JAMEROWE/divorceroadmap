@@ -47,8 +47,8 @@ File your forms with the clerk of the superior court in your county.
 The **first-paper filing fee was $435 at our last check** — but
 California adjusts court fees periodically, and some counties add
 small surcharges. Always confirm the current amount on your county
-court's fee schedule or the [statewide fee schedule]
-(https://www.courts.ca.gov/1038.htm) before filing.
+court's fee schedule or the [statewide fee schedule](https://courts.ca.gov/news-reference/reports-publications/civil-fees)
+before filing.
 
 **Can't afford it? See our full guide: [How to Get a Divorce Fee Waiver in California (Form FW-001)](/posts/california-divorce-fee-waiver-fw-001/) — if you qualify, the state covers your costs.
 
