@@ -1,4 +1,4 @@
----
+﻿---
 title: "How Long Does a Divorce Take in California? (The 6-Month Rule Explained)"
 description: "California divorces take at least 6 months — but when does the clock actually start? The real timeline, what makes cases take longer, and why the 6-month rule can't be shortened."
 date: 2026-09-02
@@ -94,7 +94,8 @@ No. The 6 months apply to agreed and default cases alike. There is no way to sho
 
 **What's the fastest realistic divorce in California?**
 
-A summary dissolution where both spouses qualify and cooperate — still 6 months from filing, but with minimal paperwork and no court appearances. Not everyone qualifies: see the [California Courts summary dissolution page](https://selfhelp.courts.ca.gov/summary-dissolution) for the current requirements.
+A summary dissolution where both spouses qualify and cooperate — still 6 months from filing, but with minimal paperwork and no court appearances. Not everyone qualifies: see the [California Courts summary dissolution page](https://selfhelp.courts.ca.gov/divorce-california/summary-dissolution/qualifications)
+ for the current requirements.
 
 **Can't afford the filing fee while you wait?**
 
