@@ -78,7 +78,7 @@ Depending on your location, you may have the right to:
 - Withdraw consent or object to processing
 - Lodge a complaint with your local data protection authority
 
-To exercise any of these rights, email us at **[your-pen-email@proton.me]**.
+To exercise any of these rights, email us at **[Jamie.Rowe.writes@proton.me]**.
 We will respond within a reasonable timeframe.
 
 ## Children's privacy
