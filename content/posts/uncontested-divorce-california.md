@@ -171,6 +171,14 @@ Then the divorce is not fully uncontested — but you don't need full litigation
 
 No. California has no legal separation waiting period before filing — the only mandatory waiting period is the 6 months after service before the judgment can be final.
 
+## Is this legal advice?
+
+No. This guide is general information about the California fee waiver
+process — it is not legal advice, and reading it doesn't create an
+attorney-client relationship. Your situation may have details this
+guide can't cover. For advice about your specific case, use your
+court's **free self-help center** or consult a family law lawyer.
+
 ---
 
 *Sources: [California Courts Self-Help Center — Divorce or Separation](https://selfhelp.courts.ca.gov/divorce-or-separation), [Summary of Your Best Judgment Options](https://selfhelp.courts.ca.gov/divorce-or-separation-default), and California Family Code §2320, §2339(a), §2340–2342 (leginfo.legislature.ca.gov). Facts verified on SEPT 04, 2026. Last updated: September 2026. 
