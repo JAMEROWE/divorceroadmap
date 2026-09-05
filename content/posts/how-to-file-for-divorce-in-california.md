@@ -33,8 +33,7 @@ enough (Cal. Fam. Code § 2310).
 
 ## Step 3: Fill out the Petition (Form FL-100)
 
-The main document is [**Form FL-100** (Petition — Marriage/Domestic
-Partnership)](https://www.courts.ca.gov/forms/fillable/fl100.pdf),
+The main document is [Form FL-100](https://selfhelp.courts.ca.gov/jcc-form/FL-100),
 available free from the California Courts website. You'll also need
 a summons and, if you have children, additional forms. Your [county
 court's self-help center](https://selfhelp.courts.ca.gov/) can review
