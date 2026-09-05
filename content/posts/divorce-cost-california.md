@@ -57,7 +57,8 @@ The single biggest cost driver isn't the court — it's **disagreement**. Every 
 
 If you've been married under 5 years, have no children, and your community and separate property is under 45,000 USD (excluding vehicles), **summary dissolution** is a simplified process with less paperwork and one filing.
 
-See the full requirements under Family Code §2400 via the [California Courts Self-Help Center](https://selfhelp.courts.ca.gov/summary-dissolution).
+See the full requirements under Family Code §2400 via the [California Courts summary dissolution page](https://selfhelp.courts.ca.gov/divorce-california/summary-dissolution/qualifications)
+.
 
 ## Cost and Time Are Connected
 
@@ -101,8 +102,16 @@ The cheapest path of all is handling the case yourself — see [How to Get a Div
 
 A professional process server charges around 50–125 USD. You can cut this: some sheriff's offices serve for a reduced fee (often waived with a fee waiver), and having any adult over 18 mail the documents costs nothing but postage.
 
+## Is this legal advice?
+
+No. This guide is general information about the California fee waiver
+process — it is not legal advice, and reading it doesn't create an
+attorney-client relationship. Your situation may have details this
+guide can't cover. For advice about your specific case, use your
+court's **free self-help center** or consult a family law lawyer.
 
 ---
 
-*Sources: [California Courts Self-Help Center — Fee Waivers](https://selfhelp.courts.ca.gov/fee-waiver), [Divorce or Separation overview](https://selfhelp.courts.ca.gov/divorce-or-separation), and [Summary Dissolution requirements](https://selfhelp.courts.ca.gov/summary-dissolution). Facts verified on September 03, 2026. Last updated: September 2026. Filing fees and eligibility amounts change — always confirm with the current form and your county court before filing. This article is for informational purposes only and is not legal advice.*
+*Sources: [California Courts Self-Help Center — Fee Waivers](https://selfhelp.courts.ca.gov/fee-waiver), [Divorce or Separation overview](https://selfhelp.courts.ca.gov/divorce-or-separation), and [California Courts summary dissolution page](https://selfhelp.courts.ca.gov/divorce-california/summary-dissolution/qualifications)
+. Facts verified on September 03, 2026. Last updated: September 2026. Filing fees and eligibility amounts change — always confirm with the current form and your county court before filing. This article is for informational purposes only and is not legal advice.*
 
