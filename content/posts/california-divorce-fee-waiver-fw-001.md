@@ -117,8 +117,8 @@ re-assess mid-stream unless your case circumstances change
 significantly.
 
 **Where do I get the forms?**
-Free from the [California Courts forms website]
-(https://courts.ca.gov/forms-rules/court-forms), or your court's self-help
+Free from the [California Courts forms website](https://courts.ca.gov/forms-rules/court-forms)
+, or your court's self-help
 center will walk you through it in person.
 
 ---
