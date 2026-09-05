@@ -38,5 +38,5 @@ menu:
     - identifier: privacy policy
       name = Privacy Policy
       url = /privacy-policy/
-      weight = 10
+      weight = 4
 
