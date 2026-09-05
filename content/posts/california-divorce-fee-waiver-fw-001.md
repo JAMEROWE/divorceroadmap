@@ -121,6 +121,14 @@ Free from the [California Courts forms website](https://courts.ca.gov/forms-rule
 , or your court's self-help
 center will walk you through it in person.
 
+## Is this legal advice?
+
+No. This guide is general information about the California fee waiver
+process — it is not legal advice, and reading it doesn't create an
+attorney-client relationship. Your situation may have details this
+guide can't cover. For advice about your specific case, use your
+court's **free self-help center** or consult a family law lawyer.
+
 ---
 
 *Sources: [California Courts Self-Help Center — Fee Waivers]
