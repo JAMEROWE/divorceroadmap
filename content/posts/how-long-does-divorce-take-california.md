@@ -101,6 +101,14 @@ A summary dissolution where both spouses qualify and cooperate — still 6 month
 
 See our guide: [How to Get a Divorce Fee Waiver in California (Form FW-001)](/posts/california-divorce-fee-waiver-fw-001/).
 
+## Is this legal advice?
+
+No. This guide is general information about the California fee waiver
+process — it is not legal advice, and reading it doesn't create an
+attorney-client relationship. Your situation may have details this
+guide can't cover. For advice about your specific case, use your
+court's **free self-help center** or consult a family law lawyer.
+
 ---
 
-*Sources: [California Courts Self-Help Center](https://selfhelp.courts.ca.gov/) — "When is my divorce final?" and related official pages on service, responses, and summary dissolution. Facts verified on January 3, 2026. Last updated: January 2026. Rules can change — always confirm with the official sources or your county court before acting.*
+*Sources: [California Courts Self-Help Center](https://selfhelp.courts.ca.gov/) — "When is my divorce final?" and related official pages on service, responses, and summary dissolution. Facts verified on September 2, 2026. Last updated: September 2026. Rules can change — always confirm with the official sources or your county court before acting.*
