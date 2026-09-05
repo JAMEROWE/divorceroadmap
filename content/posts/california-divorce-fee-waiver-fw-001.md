@@ -59,7 +59,7 @@ separated, their income generally shouldn't drag your application down.
 ### Step 1: Fill out Form FW-001
 
 [**Form FW-001 (Request to Waive Court Fees)**]
-(https://www.courts.ca.gov/forms/fillable/fw001.pdf) asks for your
+(https://selfhelp.courts.ca.gov/jcc-form/FW-001) asks for your
 contact info, your household income and size, and which benefits (if
 any) you receive. Be honest and complete — inconsistencies are the
 main reason applications get denied.
@@ -118,14 +118,14 @@ significantly.
 
 **Where do I get the forms?**
 Free from the [California Courts forms website]
-(https://www.courts.ca.gov/forms.htm), or your court's self-help
+(https://courts.ca.gov/forms-rules/court-forms), or your court's self-help
 center will walk you through it in person.
 
 ---
 
 *Sources: [California Courts Self-Help Center — Fee Waivers]
 (https://selfhelp.courts.ca.gov/fee-waiver) and [Form FW-001
-instructions](https://www.courts.ca.gov/forms/fillable/fw001.pdf).
-Facts verified on Jan 1, 2026. Last updated: January 2026. Eligibility
+instructions](https://selfhelp.courts.ca.gov/jcc-form/FW-001).
+Facts verified on Sept 1, 2026. Last updated: September 2026. Eligibility
 amounts and rules change — always confirm with the current form and
 your county court before filing.*
