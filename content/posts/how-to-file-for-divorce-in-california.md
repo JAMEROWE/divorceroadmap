@@ -11,6 +11,9 @@ rules are strict, and getting them wrong costs you time. This guide
 walks through every step, with the official sources noted and the date
 we verified them.
 
+*Want the full journey first? See [The Complete California Divorce Roadmap](/posts/california-divorce-roadmap-complete-guide/) — every stage, cost, and form in one page.*
+
+
 *This is general information, not legal advice. For your specific
 situation, talk to a licensed California attorney or your [county
 court's self-help center](https://selfhelp.courts.ca.gov/).*
