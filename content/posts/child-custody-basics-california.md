@@ -6,7 +6,7 @@ draft: false
 description: "How California decides child custody — legal vs. physical custody, joint vs. sole, the best interest standard, mandatory mediation, and the forms involved."
 tags: ["child custody", "california divorce", "custody forms", "family law"]
 ShowToc: true
-TocOpen: false
+TocOpen: true
 ---
 
 If you have children, custody is usually the part of a California divorce that matters most — and the part with the least room for guesswork. California doesn't default to one parent over the other; instead, every decision is measured against a single legal standard: what's actually best for the child.
