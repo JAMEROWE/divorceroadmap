@@ -13,7 +13,7 @@ Here's the honest breakdown, so nothing surprises you.
 
 California charges a first-appearance filing fee of **435 USD** (set by Judicial Council Rule 2.1005), though some counties add minor surcharges on top.
 
-> **Verified against official sources:** California Courts Self-Help Center (selfhelp.courts.ca.gov) and your county superior court's fee schedule. Figures verified for January 2026.
+> **Verified against official sources:** California Courts Self-Help Center (selfhelp.courts.ca.gov) and your county superior court's fee schedule. Figures verified for September 2026.
 
 You pay this fee **twice** in some cases: once when filing the petition, and once when filing a response — but never in a true default or joint summary dissolution.
 

@@ -17,7 +17,8 @@ Here are the legal methods, the deadlines, and the options when a spouse won't c
 - **Cost:** 50–125 USD for a professional process server, or free by mail with a Notice of Acknowledgment (FL-117)
 - **By-mail option:** available only if your spouse agrees to sign and return the acknowledgment form
 
-> **Verified against official sources:** California Courts Self-Help Center (selfhelp.courts.ca.gov), Code of Civil Procedure §415.10–415.50, and current Judicial Council forms. Verified for January 2026.
+> **Verified against official sources:** California Courts Self-Help Center (selfhelp.courts.ca.gov), Code of Civil Procedure §415.10–415.50, and current Judicial Council forms. **Sources (verified September 2026).**
+
 
 ## Who Can Serve Divorce Papers
 
