@@ -43,9 +43,10 @@ If you filed a standard Petition rather than the joint option, your spouse must 
 
 ## Stage 4: Disclose and Resolve the Real Issues
 
-This is where the substance of your divorce actually gets decided — what happens to your property, debts, and finances.
+This is where the substance of your divorce actually gets decided — what happens to your property, debts, finances, and children.
 
 - How California splits everything, what forms are required, and the most common mistakes people make: [Community Property Division in California Divorce](/posts/community-property-division-california/)
+- How custody decisions are made — legal vs. physical, the best interest standard, mediation, and the FL-105/FL-300/FL-311 forms: [Child Custody Basics in California Divorce](/posts/child-custody-basics-california/)
 - Whether your case qualifies as the faster, simpler track: [Uncontested Divorce in California: Requirements, Forms, and Timeline](/posts/uncontested-divorce-california/)
 
 ## Stage 5: Wait Out the Mandatory Period and Finalize
