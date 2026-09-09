@@ -14,7 +14,7 @@ Here are the legal methods, the deadlines, and the options when a spouse won't c
 - **You cannot serve your own spouse** — a neutral adult 18 or older must do it
 - **No fixed deadline to serve** — but the 30-day response clock only starts once your spouse is served
 - **Proof:** the server completes form **FL-115** (Proof of Service of Summons), which you file with the court
-- **Cost:** 50–125 USD for a professional process server, or free by mail with a Notice of Acknowledgment (FL-117)
+- **Cost:** \$50–125 for a professional process server, or free by mail with a Notice of Acknowledgment (FL-117)
 - **By-mail option:** available only if your spouse agrees to sign and return the acknowledgment form
 
 > **Verified against official sources:** California Courts Self-Help Center (selfhelp.courts.ca.gov), Code of Civil Procedure §415.10–415.50, and current Judicial Council forms. **Sources (verified September 2026).**
@@ -30,7 +30,7 @@ California law is strict about who performs service:
 
 Most people choose one of two options:
 
-1. **Professional process server** — 50–125 USD in most California counties. Fast, reliable, and they handle the FL-115 paperwork correctly. Worth the money if you expect resistance.
+1. **Professional process server** — \$50–125 in most California counties. Fast, reliable, and they handle the FL-115 paperwork correctly. Worth the money if you expect resistance.
 2. **A willing adult you know** — free. The person simply hands your spouse the papers and completes the proof of service form. Many courts' self-help centers will explain the form to your server for free.
 
 Some county sheriff's civil departments serve papers for a fee comparable to private process servers — and **free if you have an approved fee waiver**. This is one of the lesser-known benefits of form FW-001, covered in [How to Get a Divorce Fee Waiver in California](/posts/california-divorce-fee-waiver-fw-001/).
@@ -61,7 +61,7 @@ Courts require documented, diligent attempts at personal service first — typic
 
 ### 4. Service by Publication (last resort)
 
-Only when the server can show the court that your spouse **cannot be located at all** despite diligent effort — a court order is required first, and publishing in a newspaper typically costs **several hundred dollars** (roughly 200–1,000 USD depending on the paper and county). Courts scrutinize these requests carefully; it is a genuine last resort for truly missing spouses.
+Only when the server can show the court that your spouse **cannot be located at all** despite diligent effort — a court order is required first, and publishing in a newspaper typically costs **several hundred dollars** (roughly \$200–1,000 depending on the paper and county). Courts scrutinize these requests carefully; it is a genuine last resort for truly missing spouses.
 
 ## The Deadline Situation (it's different than you'd expect)
 
@@ -102,7 +102,7 @@ Silence is a losing strategy for the respondent: if your spouse is properly serv
 ## What This Means for You
 
 1. **Simplest free path (cooperative spouse):** mail with FL-117, have them sign and return
-2. **Standard path:** hire a process server for 50–125 USD, file their FL-115
+2. **Standard path:** hire a process server for \$50–125, file their FL-115
 3. **Hardest path (missing spouse):** court-ordered service by publication
 
 And remember — service costs nothing at all if you have an approved [fee waiver (FW-001)](/posts/california-divorce-fee-waiver-fw-001/), including the sheriff's service option.
@@ -117,7 +117,7 @@ No. The petitioner cannot serve the respondent. Any other adult 18 or older — 
 
 **How much does it cost to serve divorce papers in California?**
 
-A professional process server typically charges 50–125 USD. Service by mail with form FL-117 is essentially free if your spouse cooperates, and sheriff's service is free with an approved fee waiver.
+A professional process server typically charges \$50–125. Service by mail with form FL-117 is essentially free if your spouse cooperates, and sheriff's service is free with an approved fee waiver.
 
 **How long does my spouse have to respond after being served?**
 

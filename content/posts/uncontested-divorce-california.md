@@ -12,7 +12,7 @@ But "uncontested" has a legal meaning that surprises many people — a spouse wh
 ## Quick Answer: California Uncontested Divorce
 
 - **Definition:** both spouses agree on ALL terms — property, debts, custody, and support
-- **Cost:** the 435 USD filing fee (waivable) plus 0–125 USD for service — typically under 600 USD total
+- **Cost:** the \$435 filing fee (waivable) plus 0–\$125 for service — typically under \$600 total
 - **Timeline:** the divorce can't be final until **6 months + 1 day** after service, even when you agree on everything
 - **Key requirement:** a signed **marital settlement agreement** and a judge-signed judgment (FL-180)
 - **Lawyer not required** — thousands of couples complete uncontested divorces themselves every year
@@ -72,7 +72,7 @@ All forms are free from the Judicial Council. Full explanations in [What Forms D
 
 ### Step 1: Fill out and file the initial forms
 
-Complete FL-100 and FL-110 and file them with your county superior court — **435 USD** in most counties, waivable if you qualify.
+Complete FL-100 and FL-110 and file them with your county superior court — **\$435** in most counties, waivable if you qualify.
 
 → Detailed walkthrough: [How to File for Divorce in California (2026)](/posts/how-to-file-for-divorce-in-california/)
 → Fee waiver: [How to Get a Divorce Fee Waiver in California (Form FW-001)](/posts/california-divorce-fee-waiver-fw-001/)
@@ -105,12 +105,12 @@ The judgment is effective **6 months and 1 day after your spouse was served** �
 
 | Item | Cost |
 |---|---|
-| Court filing fee | 435 USD (waivable) |
-| Process server (or free by mail with FL-117) | 0–125 USD |
-| Mediator for the settlement agreement (optional) | typically 1,000–3,000 USD total if used |
-| **DIY total without mediator** | **435–560 USD** |
+| Court filing fee | \$435 (waivable) |
+| Process server (or free by mail with FL-117) | 0–\$125 |
+| Mediator for the settlement agreement (optional) | typically 1,000–\$3,000 total if used |
+| **DIY total without mediator** | **\$435–560** |
 
-Compare: contested California divorces with attorneys routinely exceed 15,000 USD per spouse. Full comparison: [How Much Does a Divorce Cost in California?](/posts/divorce-cost-california/)
+Compare: contested California divorces with attorneys routinely exceed \$15,000 per spouse. Full comparison: [How Much Does a Divorce Cost in California?](/posts/divorce-cost-california/)
 
 And if you're handling the whole case yourselves: [How to Get a Divorce in California Without a Lawyer](/posts/california-divorce-without-a-lawyer/) covers the complete DIY process.
 
@@ -139,8 +139,8 @@ The practical bottleneck for most couples: drafting the settlement agreement. Co
 Not legally — and many couples don't use one. The honest guidance:
 
 - ✅ **No lawyer needed:** both spouses fully agree, finances are simple, no children or full agreement on all child issues
-- ⚠️ **Consider a mediator** (1,000–3,000 USD): you agree on the big picture but need help structuring terms — still vastly cheaper than two lawyers
-- ⚠️ **Consider a limited-scope attorney:** pay only for reviewing your settlement agreement — often a few hundred USD — before signing it
+- ⚠️ **Consider a mediator** (\$1,000–3,000): you agree on the big picture but need help structuring terms — still vastly cheaper than two lawyers
+- ⚠️ **Consider a limited-scope attorney:** pay only for reviewing your settlement agreement — often a few hundred dollars — before signing it
 - ❌ **Get proper legal advice:** complex assets, a business, pensions, or any power imbalance between spouses
 
 The procedural side is very DIY-friendly: court self-help centers and the Family Law Facilitator review your forms for free in every county.
@@ -153,7 +153,7 @@ The minimum is 6 months and 1 day from the date your spouse was served — set b
 
 **How much does an uncontested divorce cost in California?**
 
-The filing fee is 435 USD in most counties (waivable with FW-001), plus 0–125 USD for service — typically under 600 USD total doing it yourself. A mediator for the settlement agreement adds roughly 1,000–3,000 USD if you use one.
+The filing fee is \$435 in most counties (waivable with FW-001), plus \$0–125 for service — typically under \$600 total doing it yourself. A mediator for the settlement agreement adds roughly 1,000–\$3,000 if you use one.
 
 **Do both spouses have to file anything in an uncontested divorce?**
 

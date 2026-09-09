@@ -64,11 +64,11 @@ All Judicial Council forms are free from official sources:
 2. **Your county superior court's website** — many publish complete form packets with local requirements
 3. **County law libraries and court self-help centers** — free staff assistance identifying which forms apply to you
 
-Third-party websites charging 100–300 USD for these documents are selling free public forms.
+Third-party websites charging \$100–300 for these documents are selling free public forms.
 
 ## Do You Have to Pay to File?
 
-Filing FL-100 carries the standard first-appearance fee — **435 USD in most counties**. If paying would create financial hardship, form **FW-001** can waive court fees entirely, including service and certified-copy costs. Eligibility and the application process are covered in **[How to Get a Divorce Fee Waiver in California (Form FW-001)](/posts/california-divorce-fee-waiver-fw-001/)**.
+Filing FL-100 carries the standard first-appearance fee — **\$435 in most counties**. If paying would create financial hardship, form **FW-001** can waive court fees entirely, including service and certified-copy costs. Eligibility and the application process are covered in **[How to Get a Divorce Fee Waiver in California (Form FW-001)](/posts/california-divorce-fee-waiver-fw-001/)**.
 
 ## Can You Fill These Out Yourself?
 

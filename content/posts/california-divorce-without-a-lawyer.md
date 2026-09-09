@@ -14,7 +14,7 @@ Doing it yourself doesn't mean doing it alone — free court resources exist at 
 - **You have the right** to self-represent in your own California divorce — no lawyer is required
 - **The 6 steps:** fill out forms → file with the court → serve your spouse → wait 30 days for the response window (your spouse may file FL-120) → exchange financial disclosures → file the judgment
 - **Best suited for:** amicable couples with no complex assets, both willing to cooperate
-- **Cost:** the 435 USD filing fee (waivable) instead of 3,500+ USD in lawyer fees for a contested case
+- **Cost:** the \$435 filing fee (waivable) instead of \$3,500+ in lawyer fees for a contested case
 - **Free help exists:** every county court has a **Family Law Facilitator** and self-help center
 
 > **Verified against official sources:** California Courts Self-Help Center (selfhelp.courts.ca.gov). Verified for January 2026.
@@ -41,7 +41,7 @@ For the full requirements, forms, and timeline, see [Uncontested Divorce in Cali
 - ❌ Your spouse disagrees on custody, support, or property division
 - ❌ There's a history of domestic violence or control
 - ❌ One spouse owns a business or has complex assets
-- ❌ You simply don't know what you're entitled to — a one-hour consultation with a family law attorney costs around 100–400 USD and can prevent mistakes that cost far more
+- ❌ You simply don't know what you're entitled to — a one-hour consultation with a family law attorney costs around 100–\$400 and can prevent mistakes that cost far more
 
 Note that facilitators and court self-help centers provide **procedural help only** — they cannot advise you on what to ask for. If your case involves strategy questions, that's the boundary where professional advice becomes appropriate.
 
@@ -57,7 +57,7 @@ You'll need the 4 core forms — **FL-100** (Petition), **FL-110** (Summons), **
 
 ### Step 2: File with the court
 
-File in the superior court of the county where you or your spouse lives. The first-filing fee is **435 USD in most counties** — and it's waivable.
+File in the superior court of the county where you or your spouse lives. The first-filing fee is **\$435 in most counties** — and it's waivable.
 
 → Full walkthrough: [How to File for Divorce in California (2026): A Step-by-Step Guide](/posts/how-to-file-for-divorce-in-california/)
 → Can't afford the fee: [How to Get a Divorce Fee Waiver in California (Form FW-001)](/posts/california-divorce-fee-waiver-fw-001/)
@@ -88,12 +88,12 @@ The math is why most people go this route:
 
 | Item | DIY | With lawyer |
 |---|---|---|
-| Court filing fee | 435 USD (waivable) | 435 USD |
-| Process server | 0–125 USD | Included in fees |
-| Attorney retainer | 0 USD | 3,500–15,000+ USD (5,000+ USD in major metros) |
-| **Typical total** | **435–560 USD** | **4,000–15,500+ USD** |
+| Court filing fee | \$435 (waivable) | \$435 |
+| Process server | 0–\$125 | Included in fees |
+| Attorney retainer | \$0 | 3,500–\$15,000+ (\$5,000+ in major metros) |
+| **Typical total** | **\$435–560** | **\$4,000–15,500+** |
 
-Contested cases with lawyers routinely exceed 15,000 USD per spouse; even amicable lawyer-assisted divorces commonly cost several thousand. The full cost breakdown is in [How Much Does a Divorce Cost in California?](/posts/divorce-cost-california/).
+Contested cases with lawyers routinely exceed \$15,000 per spouse; even amicable lawyer-assisted divorces commonly cost several thousand. The full cost breakdown is in [How Much Does a Divorce Cost in California?](/posts/divorce-cost-california/).
 
 ## The Free Resources Most DIY Divorcers Don't Know About
 
@@ -124,7 +124,7 @@ Yes. Any adult has the right to self-represent ("in pro per") in their own divor
 
 **How much does a DIY divorce cost in California?**
 
-The court filing fee is 435 USD in most counties — waivable with form FW-001 if you qualify. Add 0–125 USD for a process server. Compared to 3,500–15,000+ USD with lawyers, DIY is dramatically cheaper for amicable cases.
+The court filing fee is \$435 in most counties — waivable with form FW-001 if you qualify. Add 0–\$125 for a process server. Compared to \$3,500–15,000+ with lawyers, DIY is dramatically cheaper for amicable cases.
 
 **Is a DIY divorce a good idea with children involved?**
 
