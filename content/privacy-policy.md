@@ -37,9 +37,9 @@ content. It is not used to personally identify you.
 Cookies are small files stored on your device by your browser. This website
 may use:
 
-- **Essential cookies** — required for the site to function (for example,
+- **Essential cookies** â€” required for the site to function (for example,
   remembering interface preferences such as dark mode).
-- **Analytics cookies** — help us understand which pages are read and which
+- **Analytics cookies** â€” help us understand which pages are read and which
   are not, so we can improve the site. Our analytics tool (Cloudflare Web
   Analytics) is designed not to collect personal data or track visitors
   across websites.
