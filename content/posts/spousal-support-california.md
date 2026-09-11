@@ -87,11 +87,11 @@ Under Family Code § 4337, support generally terminates automatically upon the d
 
 *This article is for general information only and is not legal advice. Spousal support cases involving domestic violence history, significant income disparity, or a marriage near the 10-year threshold can turn on case-specific details — for guidance specific to your situation, consult a licensed California attorney or contact your county court's Self-Help Center, which offers free assistance.*
 
-**Sources (verified September 10, 2026):**
-- California Family Code § 4320 (14 factors for long-term spousal support) — statutory citation; confirmed against direct leginfo.legislature.ca.gov search-result text and cross-checked verbatim against an official San Diego Superior Court form (SDSC D-242, Family Code § 4320 Spousal Support Factors Attachment). Note on verification method: leginfo's codified-statute pages (codes_displaySection.xhtml) block automated fetching, so this content was confirmed via direct search-result text from that source plus the independent court-form cross-check rather than a full page load — I don't have a browser to manually open and visually confirm the page myself, so that final visual check is a step only you can complete before publishing.
-- California Family Code § 4330(b) (Gavron warning — codifies *In re Marriage of Gavron*, 1988) — statutory citation; exact statutory wording confirmed identically across multiple independent legal sources quoting the text directly
-- California Family Code § 4336 (marriages of long duration, 10-year threshold, indefinite jurisdiction) — statutory citation
-- California Family Code § 4337 (termination of support upon death or remarriage) — statutory citation; confirmed against direct leginfo.legislature.ca.gov search-result text and identical wording across multiple independent legal sources
-- California Family Code § 3600 (temporary spousal support authority) — statutory citation
-- California Family Code § 4325 (reduction/elimination of support for a criminal conviction of an abusive spouse) — statutory citation
-- Senate Bill 711, Chapter 231, Statutes of 2025 — confirmed via direct leginfo bill-text search results: operative for instruments executed on or after January 1, 2026; prior California treatment continues for instruments executed on or before December 31, 2025 unless a modification expressly adopts the new rule; cross-checked against secondary professional legal commentary, not cited as a source
+**Sources (verified September 11, 2026):**
+- California Family Code § 4320 — the 14 statutory factors for long-term spousal support
+-California Family Code § 4330(b) — the Gavron warning, codifying In re Marriage of Gavron (1988)
+-California Family Code § 4336 — marriages of long duration (10-year threshold) and indefinite jurisdiction
+-California Family Code § 4337 — termination of support upon death or remarriage
+-California Family Code § 3600 — temporary spousal support
+-California Family Code § 4325 — reduction or elimination of support for a criminal conviction of an abusive spouse
+-Senate Bill 711, Chapter 231, Statutes of 2025 — California's tax conformity change for spousal support, effective for instruments executed on or after January 1, 2026
